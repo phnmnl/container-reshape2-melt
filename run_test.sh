@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/galaxyproject/tools-iuc/master/tools/resh
 melt.R -i mtcars.txt
 
 # check that files were created
-if ! [ -e "/tmp/melt-out/output.tabluar" ]; then
+if ! [ -e "/tmp/melt-out/output.tabular" ]; then
 	echo "Output tabular file doesn't exist"
 	exit 1
 fi
