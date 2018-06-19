@@ -1,8 +1,8 @@
-# container-r-reshape2
+# container-reshape2-melt
 Version 0.1
 
 ## Short description
-reshape2 a container for performing 'cast' or 'melt' transformation on data matrices 
+reshape2 a container for performing 'melt' transformation on data matrices 
 
 ## Key Features
 
@@ -31,4 +31,3 @@ reshape2 a container for performing 'cast' or 'melt' transformation on data matr
 ## Website
 
 - https://cran.r-project.org/web/packages/reshape2/index.html
-
